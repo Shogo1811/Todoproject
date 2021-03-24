@@ -1,2 +1,1 @@
-# Todoproject
-# Udemy DjangoコースTODOリスト作成
+# 動画教材見ながら作成
